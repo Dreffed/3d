@@ -30,11 +30,11 @@ wall_thickness = 3;
 //*
 // wall cabel trunking...
 r_inner = 2;
-clip_ratio = 1.2; // 2
+clip_ratio = 1.3; // 2
 clip_pad = 5;
 clip_length = 58; //30
-clip_width = 19; // 15
-clip_hook = 5; //clip_width / clip_ratio;
+clip_width = 17; // 15
+clip_hook = 10; //clip_width / clip_ratio;
 size_width = 16;
 // */
 
